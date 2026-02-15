@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=ADARSH%20%20%20KUMARAMKUZHIYIL%20%&fontSize=20&fontColor=333333&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=ADARSH%100%100%KUMARAMKUZHIYIL%100%&fontSize=50&fontColor=333333&animation=fadeIn" />
 
 <br>
 
