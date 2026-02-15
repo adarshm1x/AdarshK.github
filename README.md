@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=ADARSH%20KUMARAMKUZHIYIL&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-Business & Data Analyst | London, England |
+
 
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=DATA+%26+BUSINESS+ANALYST" alt="Typing SVG" />
@@ -11,7 +11,7 @@ Business & Data Analyst | London, England |
 
 <br><br>
 
-### 🌑 EXECUTIVE SUMMARY
+🌑 EXECUTIVE SUMMARY
 > Data-driven Business Analyst with strong exposure to Supply Chain and Logistics. I transform complex data into actionable insights that improve efficiency, decision-making, and business performance.
 
 Slightly More Impact-Focused
