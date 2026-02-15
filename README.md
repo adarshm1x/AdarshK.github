@@ -11,7 +11,19 @@
 <br><br>
 
 ### 🌑 EXECUTIVE SUMMARY
-> **Business and Data Analyst specializing in Supply Chain and Logistics, focused on turning data into insights that drive efficiency and growth.**
+> **Data-driven Business Analyst with strong exposure to Supply Chain and Logistics. I transform complex data into actionable insights that improve efficiency, decision-making, and business performance.
+
+Slightly More Impact-Focused
+
+Business and Data Analyst specializing in Supply Chain and Logistics, focused on turning data into insights that drive efficiency and growth.
+
+Very Short & Sharp (Minimalist)
+
+Business & Data Analyst with a focus on Supply Chain and Logistics, delivering data-backed insights for smarter decisions.
+
+Corporate & Safe
+
+Analytical professional with experience in Business Analysis, Supply Chain, and Logistics, supporting data-driven decision-making..**
 
 <hr style="border: 1px solid #333;">
 
