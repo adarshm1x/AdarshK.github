@@ -11,7 +11,7 @@
 <br><br>
 
 ### 🌑 EXECUTIVE SUMMARY
-> **Data-driven Business Analyst with strong exposure to Supply Chain and Logistics. I transform complex data into actionable insights that improve efficiency, decision-making, and business performance.
+> Data-driven Business Analyst with strong exposure to Supply Chain and Logistics. I transform complex data into actionable insights that improve efficiency, decision-making, and business performance.
 
 Slightly More Impact-Focused
 
@@ -23,12 +23,12 @@ Business & Data Analyst with a focus on Supply Chain and Logistics, delivering d
 
 Corporate & Safe
 
-Analytical professional with experience in Business Analysis, Supply Chain, and Logistics, supporting data-driven decision-making..**
+Analytical professional with experience in Business Analysis, Supply Chain, and Logistics, supporting data-driven decision-making..
 
 <hr style="border: 1px solid #333;">
 
 ### 🏛️ STRATEGIC OVERVIEW
-* **MBA (Data Analytics):** University of Hertfordshire, UK
+* **MBA (Data Analytics):** University of Hertfordshire,England,London,UK.
 * **Focus:** Data-driven Business Analysis with strong exposure to **Supply Chain and Logistics**.
 * **Impact:** I transform complex data into actionable insights that improve efficiency and business performance.
 
